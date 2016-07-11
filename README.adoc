@@ -1,0 +1,10 @@
+# docker-scala
+
+Provides the scala build tool `sbt`
+
+## Building docker-scala
+
+[source,shell]
+----
+docker build -t softwarecraftsmen/scala .
+----
